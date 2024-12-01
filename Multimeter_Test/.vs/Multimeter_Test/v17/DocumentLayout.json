@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\GIT\\Multimeter-test\\Multimeter_Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49628C69-F161-534D-94E4-842936B6B33E}|Assembly-CSharp.csproj|f:\\git\\multimeter-test\\multimeter_test\\assets\\multimeterview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49628C69-F161-534D-94E4-842936B6B33E}|Assembly-CSharp.csproj|solutionrelative:assets\\multimeterview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49628C69-F161-534D-94E4-842936B6B33E}|Assembly-CSharp.csproj|F:\\GIT\\Multimeter-test\\Multimeter_Test\\assets\\multimetermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49628C69-F161-534D-94E4-842936B6B33E}|Assembly-CSharp.csproj|solutionrelative:assets\\multimetermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49628C69-F161-534D-94E4-842936B6B33E}|Assembly-CSharp.csproj|F:\\GIT\\Multimeter-test\\Multimeter_Test\\assets\\multimetercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49628C69-F161-534D-94E4-842936B6B33E}|Assembly-CSharp.csproj|solutionrelative:assets\\multimetercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MultimeterView.cs",
+              "DocumentMoniker": "F:\\GIT\\Multimeter-test\\Multimeter_Test\\Assets\\MultimeterView.cs",
+              "RelativeDocumentMoniker": "Assets\\MultimeterView.cs",
+              "ToolTip": "F:\\GIT\\Multimeter-test\\Multimeter_Test\\Assets\\MultimeterView.cs",
+              "RelativeToolTip": "Assets\\MultimeterView.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvygAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:49:29.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MultimeterModel.cs",
+              "DocumentMoniker": "F:\\GIT\\Multimeter-test\\Multimeter_Test\\Assets\\MultimeterModel.cs",
+              "RelativeDocumentMoniker": "Assets\\MultimeterModel.cs",
+              "ToolTip": "F:\\GIT\\Multimeter-test\\Multimeter_Test\\Assets\\MultimeterModel.cs",
+              "RelativeToolTip": "Assets\\MultimeterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:49:27.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MultimeterController.cs",
+              "DocumentMoniker": "F:\\GIT\\Multimeter-test\\Multimeter_Test\\Assets\\MultimeterController.cs",
+              "RelativeDocumentMoniker": "Assets\\MultimeterController.cs",
+              "ToolTip": "F:\\GIT\\Multimeter-test\\Multimeter_Test\\Assets\\MultimeterController.cs",
+              "RelativeToolTip": "Assets\\MultimeterController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:49:23.589Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
